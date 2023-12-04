@@ -2,4 +2,6 @@
 int main()
 {
   printf("hello world")
+  scanf("%d",a);
+  //add a line
 }
